@@ -17,5 +17,5 @@ These are source files for the Tuts+ course: [Create Custom Tag Helpers in ASP.N
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/create-custom-tag-helpers-in-asp.net-5
+[published url]: https://code.tutsplus.com/courses/create-custom-tag-helpers-in-aspnet-5
 [instructor url]: https://tutsplus.com/authors/jeremy-mcpeak
